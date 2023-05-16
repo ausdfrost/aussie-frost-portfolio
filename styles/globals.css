@@ -1,11 +1,12 @@
 html,
 body {
-  background-color: snow;
+  background-color: #008080;
   padding: 0;
   margin: 0;
   font-family: Inter, sans-serif, Helvetica Neue, Arial, Courier New, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
   Fira Sans, Droid Sans, sans-serif;
   font-weight: 400;
+  color: snow;
 }
 
 div {
