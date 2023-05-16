@@ -12,7 +12,7 @@ export default function Home() {
       <Header />
       <body>
         <div>
-	  <p>Howdy, I'm <b>Aussie Frost</b>, a third year CS student working in UO's Computational Social Neuroscience Lab. 
+	  <p>Howdy, I'm <b>Aussie Frost</b>, a third year Data Science student working in UO's Computational Social Neuroscience Lab. 
 	  If you have any inquiries, or would just like to chat, feel free to email! You can also check out my projects on GitHub. ✌️</p>
 	</div>	
 	<div>
