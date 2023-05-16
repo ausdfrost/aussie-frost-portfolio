@@ -1,9 +1,24 @@
 html,
 body {
+  background-color: snow;
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
-    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Inter, sans-serif, Helvetica Neue, Arial, Courier New, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
+  Fira Sans, Droid Sans, sans-serif;
+  font-weight: 400;
+}
+
+div {
+  font-style: normal;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+  line-height: 24px;
+  font-size: 14px;
 }
 
 * {
@@ -20,10 +35,25 @@ main {
 }
 
 code {
-  background: #fafafa;
+  background: #e4e4e4;
   border-radius: 5px;
-  padding: 0.75rem;
-  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
+  padding: 8px; /* 0.75rem; */
+  font-family: Roboto Mono, Menlo, Monaco, Lucida Console, Courier New, monospace;
+}
+
+hr {
+  margin: 30px;
+}
+
+.blog-post-title {
+  display: inline;
+}
+
+.blog-post-date {
+  text-indent: 10px;
+  float: right;
+  text-align: right;
+  color: rgb(142, 142, 142);
 }
 
 .container {
@@ -33,3 +63,8 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+a:link { text-decoration: underline; color: rgb(23, 88, 102)}
+a:visited { text-decoration: underline; color: rgb(23, 88, 102)}
+a:hover { text-decoration: underline; color: rgb(23, 88, 102)}
+a:active { text-decoration: underline; color: rgb(23, 88, 102)}
