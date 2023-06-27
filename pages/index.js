@@ -17,6 +17,13 @@ export default function Home() {
 		You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
 	  </p>
 	</div>
+	<div>
+	  <h3>Projects</h3>
+	  <p><a href="https://github.com/austinfroste/round_robin_person_decoding">Round Robin Person Decoding (2022-23)</a>
+	  </p>
+	  <p><a href="https://github.com/austinfroste/narrative_sentiment_analysis">Narrative Sentiment Analysis (2023)</a>
+	  </p>
+	</div>
       </body>
     </div>
   )
