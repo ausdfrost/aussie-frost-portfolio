@@ -65,7 +65,7 @@ hr {
   align-items: center;
 }
 
-p.listed-item {
+.listed-item {
   text-indent: 10%;
 }
 
