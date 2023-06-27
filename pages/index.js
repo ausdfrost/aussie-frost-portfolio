@@ -17,7 +17,6 @@ export default function Home() {
 		You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
 	  </p>
 	</div>
-	<hr>
 	<div>
 	  <h3>Projects</h3>
 	  <p><a href="https://github.com/austinfroste/round_robin_person_decoding">Round Robin Person Decoding (2022-23)</a>
