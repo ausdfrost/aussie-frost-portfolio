@@ -19,9 +19,9 @@ export default function Home() {
 	</div>
 	<div>
 	  <h3>Projects</h3>
-	  <p><a href="https://github.com/austinfroste/round_robin_person_decoding">Round Robin Person Decoding (2022-23)</a>
+	  <p className="listed-item"><a href="https://github.com/austinfroste/round_robin_person_decoding">Round Robin Person Decoding (2022-23)</a>
 	  </p>
-	  <p><a href="https://github.com/austinfroste/narrative_sentiment_analysis">Narrative Sentiment Analysis (2023)</a>
+	  <p className="listed-item"><a href="https://github.com/austinfroste/narrative_sentiment_analysis">Narrative Sentiment Analysis (2023)</a>
 	  </p>
 	</div>
       </body>
