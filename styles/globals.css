@@ -4,6 +4,9 @@ body, html {
     font-family: 'EB Garamond';font-size: 22px;
     background: #04060C; /* Dark background for the body */
     color: #F2EBEC; /* Light text color for contrast */
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header {
