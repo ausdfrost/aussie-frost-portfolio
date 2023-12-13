@@ -2,13 +2,13 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: 'EB Garamond';font-size: 22px;
-    background: #1A1A1A; /* Dark background for the body */
-    color: #F5F5F5; /* Light text color for contrast */
+    background: #04060C; /* Dark background for the body */
+    color: #F2EBEC; /* Light text color for contrast */
 }
 
 header {
-    background: #000; /* Black background for header */
-    color: #fff;
+    background: #04060C;
+    color: #F2EBEC;
     padding: 10px 0;
 }
 
@@ -24,7 +24,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #F2EBEC;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.2em; /* Increased font size for nav links */
@@ -42,7 +42,7 @@ main {
 .profile-picture {
     width: 140px;
     height: 140px;
-    background: #fff; /* White background for profile picture circle */
+    background: #F2EBEC; /* White background for profile picture circle */
     border-radius: 50%;
     display: inline-block;
     margin-bottom: 30px; /* Adjusted spacing below profile picture */
@@ -62,8 +62,8 @@ p {
 }
 
 .additional-content {
-    background: #333; /* Darker section for the footer or additional content */
-    color: #fff;
+    background: #04060C; /* Darker section for the footer or additional content */
+    color: #F2EBEC;
     padding: 50px 10px;
     margin-top: 50px;
 }
