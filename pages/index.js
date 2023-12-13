@@ -25,7 +25,6 @@ export default function Home() {
 	            <div class="profile-picture"></div>
 	            <h1>Aussie Frost</h1>
 	            <div class="social-links">
-	                <!-- Icons would go here -->
 	            </div>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam</p>
 	        </section>
