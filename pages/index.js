@@ -10,21 +10,31 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <body>
-        <div>
-	  <p>Howdy, I'm <b>Aussie Frost</b>, a fourth year Data Science student and alum of UO's <a href="https://csnl.uoregon.edu/people">Computational Social Neuroscience Lab</a>. 
-	  	If you have any inquiries, or would just like to chat, feel free to <a href="mailto:afrost6@uoregon.edu">email</a>! 
-		You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
-	  </p>
-	</div>
-	<div>
-	  <h3>Projects</h3>
-	  <p className="listed-item"><a href="https://github.com/austinfroste/round_robin_person_decoding">Round Robin Person Decoding (2022-23)</a>
-	  </p>
-	  <p className="listed-item"><a href="https://github.com/austinfroste/narrative_sentiment_analysis">Narrative Sentiment Analysis (2023)</a>
-	  </p>
-	</div>
-      </body>
+	<body>
+	    <header>
+	        <nav>
+	            <ul>
+	                <li><a href="#projects">Projects</a></li>
+	                <li><a href="#experience">Experience</a></li>
+	                <li><a href="#about">About</a></li>
+	            </ul>
+	        </nav>
+	    </header>
+	    <main>
+	        <section class="profile">
+	            <div class="profile-picture"></div>
+	            <h1>Aussie Frost</h1>
+	            <div class="social-links">
+	                <!-- Icons would go here -->
+	            </div>
+	            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam</p>
+	        </section>
+	        <section class="additional-content">
+	            <h2>Round Robin Person Decoding</h2>
+	            <!-- Additional content goes here -->
+	        </section>
+	    </main>
+	</body>
     </div>
   )
 }
