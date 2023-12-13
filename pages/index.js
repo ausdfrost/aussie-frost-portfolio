@@ -30,7 +30,7 @@ export default function Home() {
 	  		If you have any inquiries, or would just like to chat, feel free to <a href="mailto:afrost6@uoregon.edu">email</a>! 
 			You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
 	  	    </p>
-	        </section>
+	        </section id="projects">
 	        <section class="additional-content">
 	            <h2>Round Robin Person Decoding</h2>
 	        </section>
