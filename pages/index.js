@@ -26,7 +26,10 @@ export default function Home() {
 	            <h1>Aussie Frost</h1>
 	            <div class="social-links">
 	            </div>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam</p>
+	            <p>Howdy, I'm <b>Aussie Frost</b>, a fourth year Data Science student and alum of UO's <a href="https://csnl.uoregon.edu/people">Computational Social Neuroscience Lab</a>. 
+	  		If you have any inquiries, or would just like to chat, feel free to <a href="mailto:afrost6@uoregon.edu">email</a>! 
+			You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
+	  	    </p>
 	        </section>
 	        <section class="additional-content">
 	            <h2>Round Robin Person Decoding</h2>
