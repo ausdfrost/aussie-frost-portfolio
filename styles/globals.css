@@ -105,8 +105,8 @@ code {
   text-indent: 10%;
 }
 
-a:link { text-decoration: underline; color: rgb(23, 88, 102)}
-a:visited { text-decoration: underline; color: rgb(23, 88, 102)}
-a:hover { text-decoration: underline; color: rgb(23, 88, 102)}
-a:active { text-decoration: underline; color: rgb(23, 88, 102)}
+a:link { text-decoration: underline; color: #F2EBEC}
+a:visited { text-decoration: underline; color: #F2EBEC}
+a:hover { text-decoration: underline; color: #F2EBEC}
+a:active { text-decoration: underline; color: #F2EBEC}
 */
