@@ -69,13 +69,13 @@ p {
 }
 
 p a {
-    color: #d9cecf;
+    color: #262933;
     text-decoration: underline;
 }
 
 .additional-content {
     background: #04060C; /* Darker section for the footer or additional content */
-    color: #04060C;
+    color: #F2EBEC;
     padding: 50px 10px;
     margin-top: 50px;
 }
