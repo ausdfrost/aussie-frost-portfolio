@@ -58,7 +58,7 @@ main {
 
 h1 {
     margin-bottom: 20px; /* Adjusted spacing below the name */
-    text-align: right;
+    text-align: left;
 }
 
 p {
