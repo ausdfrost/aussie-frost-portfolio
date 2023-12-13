@@ -20,22 +20,23 @@ nav ul {
 
 nav li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 40px; /* Increased spacing between nav items */
 }
 
 nav a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
+    font-size: 1.2em; /* Increased font size for nav links */
 }
 
 main {
     text-align: center;
-    padding: 50px 10px;
+    padding: 80px 10px; /* Increased vertical padding for main content */
 }
 
 .profile {
-    margin-bottom: 50px;
+    margin-bottom: 100px; /* Increased bottom margin for profile section */
 }
 
 .profile-picture {
@@ -44,12 +45,20 @@ main {
     background: #fff; /* White background for profile picture circle */
     border-radius: 50%;
     display: inline-block;
-    margin-bottom: 20px;
+    margin-bottom: 30px; /* Adjusted spacing below profile picture */
 }
 
 .social-links {
-    margin-bottom: 20px;
+    margin-bottom: 30px; /* Adjusted spacing below social links */
     /* Icons color would be set here, assuming white for now */
+}
+
+h1 {
+    margin-bottom: 20px; /* Adjusted spacing below the name */
+}
+
+p {
+    margin-bottom: 50px; /* Increased bottom margin for paragraph */
 }
 
 .additional-content {
@@ -59,16 +68,11 @@ main {
     margin-top: 50px;
 }
 
-
 code {
   background: #e4e4e4;
   border-radius: 5px;
   padding: 8px; /* 0.75rem; */
   font-family: Roboto Mono, Menlo, Monaco, Lucida Console, Courier New, monospace;
-}
-
-hr {
-  margin: 30px;
 }
 
 .blog-post-title {
@@ -82,6 +86,7 @@ hr {
   color: rgb(142, 142, 142);
 }
 
+/*
 .container {
   height: 100vh;
   display: flex;
@@ -89,6 +94,7 @@ hr {
   justify-content: center;
   align-items: center;
 }
+*/
 
 .listed-item {
   text-indent: 10%;
