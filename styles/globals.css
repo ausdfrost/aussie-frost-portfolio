@@ -66,6 +66,11 @@ p {
     font-weight: 200;
 }
 
+p a {
+    color: #d9cecf;
+    text-decoration: none;
+}
+
 .additional-content {
     background: #1C1E21; /* Darker section for the footer or additional content */
     color: #F2EBEC;
