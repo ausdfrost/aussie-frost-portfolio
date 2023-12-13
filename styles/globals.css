@@ -1,7 +1,7 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'EB Garamond';font-size: 22px;
     background: #1A1A1A; /* Dark background for the body */
     color: #F5F5F5; /* Light text color for contrast */
 }
