@@ -30,7 +30,6 @@ export default function Home() {
 	        </section>
 	        <section class="additional-content">
 	            <h2>Round Robin Person Decoding</h2>
-	            <!-- Additional content goes here -->
 	        </section>
 	    </main>
 	</body>
