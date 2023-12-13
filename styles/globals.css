@@ -59,6 +59,7 @@ h1 {
 
 p {
     margin-bottom: 50px; /* Increased bottom margin for paragraph */
+    font-family: 'Gill Sans', sans-serif;
 }
 
 .additional-content {
