@@ -68,7 +68,7 @@ p {
 
 p a {
     color: #d9cecf;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .additional-content {
