@@ -28,6 +28,7 @@ export default function Home() {
 	        </section>
 	    </main>
 	</body>
+	<Footer />
     </div>
   )
 }
