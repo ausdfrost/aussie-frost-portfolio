@@ -57,8 +57,8 @@ main {
 }
 
 h1 {
-    margin-bottom: 20px; /* Adjusted spacing below the name */
-    text-align: left;
+    margin-bottom: 24px; /* Adjusted spacing below the name */
+    text-align: center;
 }
 
 p {
