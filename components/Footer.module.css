@@ -1,7 +1,10 @@
 .footer {
     height: 100%;
     margin: 0;
-    font-family: 'EB Garamond';font-size: 14px;font-weight: 200;
+    font-family: 'EB Garamond';
+    font-size: 16px;
+    font-weight: 200;
+    text-align: center;
     background: #F2EBEC;
     color: #04060C;
     max-width: 80%;
