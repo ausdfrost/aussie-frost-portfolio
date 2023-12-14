@@ -24,7 +24,7 @@ export default function Home() {
 		    </p>
 	        </section>
 	        <section class="additional-content" id="projects">
-	            <h2>projects coming soon... visit <a href="https://github.com/austinfroste">GitHub</a> in the meantime.</h2>
+	            <h2>projects coming soon... take a look at my <a href="https://github.com/austinfroste">GitHub</a> in the meantime :)</h2>
 	        </section>
 	    </main>
 	</body>
