@@ -23,11 +23,6 @@ export default function Home() {
 	  		As for work, I enjoy every detail of working with data to solve high-level problems in both creative and impactful ways.
 		    </p>
 	        </section>
-	  /*
-	        <section class="additional-content" id="projects">
-	            <h2>projects coming soon... visit <a href="https://github.com/austinfroste">GitHub</a> in the meantime.</h2>
-	        </section>
-	 */
 	    </main>
 	</body>
     </div>
