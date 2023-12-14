@@ -22,11 +22,6 @@ export default function Home() {
 	  		Outside of work, I enjoy going on adventures with my dog, writing music, and cooking. 
 	  		As for work, I enjoy every detail of working with data to solve high-level problems in both creative and impactful ways.
 		    </p>
-	  		/*
-	            <p>Howdy, I'm Aussie Frost, a fourth year Data Science student and alum of UO's <a href="https://csnl.uoregon.edu/people">Computational Social Neuroscience Lab</a>. 
-	  		If you have any inquiries, or would just like to chat, feel free to <a href="mailto:afrost6@uoregon.edu">email</a>! 
-			You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
-	  	    </p> */
 	        </section>
 	  /*
 	        <section class="additional-content" id="projects">
