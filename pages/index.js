@@ -28,9 +28,11 @@ export default function Home() {
 			You can also check out my projects on <a href="https://github.com/austinfroste">GitHub</a> and connect with me on <a href="https://www.linkedin.com/in/austinfroste">LinkedIn</a>. ✌️
 	  	    </p> */
 	        </section>
+	  /*
 	        <section class="additional-content" id="projects">
 	            <h2>projects coming soon... visit <a href="https://github.com/austinfroste">GitHub</a> in the meantime.</h2>
 	        </section>
+	 */
 	    </main>
 	</body>
     </div>
