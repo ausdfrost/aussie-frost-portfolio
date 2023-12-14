@@ -1,6 +1,8 @@
 # Austin Frost Portfolio Site
 
-Howdy! This is my simple portfolio site. It's hosted by Netlify, and built with Next.js and deployed [here](https://aussiefrost.co/).
+Howdy! This is my simple portfolio site. It's hosted by Netlify, built with Next.js, and deployed [here](https://aussiefrost.co/).
+
+'''TODO'''
 
 # Next + Netlify Starter
 
