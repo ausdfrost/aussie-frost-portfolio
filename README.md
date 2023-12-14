@@ -2,7 +2,7 @@
 
 Howdy! This is my simple portfolio site. It's hosted by Netlify, built with Next.js, and deployed [here](https://aussiefrost.co/).
 
-'''TODO'''
+`TODO: add project list, add dark/light mode`
 
 # Next + Netlify Starter
 
